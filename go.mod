@@ -1,4 +1,4 @@
-module books
+module github.com/ajrmzcs/books
 
 go 1.13
 
